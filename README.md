@@ -10,7 +10,7 @@ Hi there 👋. I’m tiago. so for now is just that
 
 ## Get in touch :coffee:
 
-- [LinkedIn]() 'not working for now'
+- [LinkedIn](https://www.linkedin.com/in/tiago-alves-pascutti-89571b420/) 
 
 
 
