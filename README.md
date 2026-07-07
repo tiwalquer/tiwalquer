@@ -10,12 +10,12 @@ Hi there 👋. I’m tiago. so for now is just that
 
 ## Get in touch :coffee:
 
-- [LinkedIn](https://www.linkedin.com/in/tiago-alves-pascutti-89571b420/) 
+- [LinkedIn target="_blank"](https://www.linkedin.com/in/tiago-alves-pascutti-89571b420/)  
 
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tiwalquer&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tiwalquer&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> -->
 
 
 
